@@ -1,32 +1,73 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="f6f4a6e6-a071-47ba-82b6-085371c72967" name="Changes" comment="" />
+    <list default="true" id="f6f4a6e6-a071-47ba-82b6-085371c72967" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/teh.t4.py" beforeDir="false" afterPath="$PROJECT_DIR$/teh.t4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/teht.1.py" beforeDir="false" afterPath="$PROJECT_DIR$/teht.1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/teht.2.py" beforeDir="false" afterPath="$PROJECT_DIR$/teht.2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/teht.3.py" beforeDir="false" afterPath="$PROJECT_DIR$/teht.3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/teht.5.py" beforeDir="false" afterPath="$PROJECT_DIR$/teht.5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/teht.6.py" beforeDir="false" afterPath="$PROJECT_DIR$/teht.6.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 5
-}]]></component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;TwIzZyRichhh&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/TwIzZyRichhh/Kotiteht.4.git&quot;,
+    &quot;accountId&quot;: &quot;7f2fff31-682a-4704-93c0-5e749b21300c&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
   <component name="ProjectId" id="2lNbTwktelX7NCxefd2DXZSNBKe" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.teh.t4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.teht.1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.teht.2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.teht.3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.teht.5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.teht.6.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -43,11 +84,22 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1725023492290</updated>
-      <workItem from="1725023493674" duration="3000" />
+      <workItem from="1725023493674" duration="3396000" />
+      <workItem from="1725093919471" duration="6117000" />
+      <workItem from="1725276162631" duration="351000" />
+      <workItem from="1725276756660" duration="27000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Kotiteht_4$teht_1.coverage" NAME="teht.1 Coverage Results" MODIFIED="1725023772782" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Kotiteht_4$teht_6.coverage" NAME="teht.6 Coverage Results" MODIFIED="1725276455458" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Kotiteht_4$teht_5.coverage" NAME="teht.5 Coverage Results" MODIFIED="1725100467310" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Kotiteht_4$teht_2.coverage" NAME="teht.2 Coverage Results" MODIFIED="1725094009863" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Kotiteht_4$teh_t4.coverage" NAME="teh.t4 Coverage Results" MODIFIED="1725101023512" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Kotiteht_4$teht_3.coverage" NAME="teht.3 Coverage Results" MODIFIED="1725026501945" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
